@@ -1,0 +1,12 @@
+.header {
+  /* min-height: 100px; */
+  background-color: rgb(137, 140, 230);
+}
+
+.navigate {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  height: 100px;
+  align-items: center;
+}
